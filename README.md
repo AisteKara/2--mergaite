@@ -1,9 +1,10 @@
 # 2--mergaite
 
 # key features
--
--
--
+- HTML
+- CSS
+- Relative paths
+- Github pages
 
 ## Link
 
